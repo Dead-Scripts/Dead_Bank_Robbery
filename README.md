@@ -1,5 +1,4 @@
 # DeadBankRobbery
-
 ## Dead's Scripts Community [Discord]
 [![Developer Discord]()]()
 

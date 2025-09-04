@@ -1,6 +1,6 @@
 # DeadBankRobbery
 ## Dead's Scripts Community [Discord]
-[![Developer Discord]()]()
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
 This is a really simple script that allows realistic robberies of the banks. Currently I only have the Paleto bank and harmony Fleeca bank within it. I may add the 24/7 of Sandy Shores and Gun stores later on. Depending on suggestions of what other locations you guys want, I'll see what I can do!
 Basically this allows an animation of robbing the bank for users and fun RP for all on the server.

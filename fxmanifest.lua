@@ -1,3 +1,6 @@
+fx_version 'cerulean'
+game 'gta5'
+
 ---------------------------------
 -------- DeadBankRobbery --------
 ---          by Dead          ---
